@@ -1,1 +1,2 @@
-# score-keeper
+## Score-keeper 
+A small PWA to allow me to keep the score of a few of the games. There are two main objectives, one is as a learning project, the other is to avoid those "Wait, what's the score again" moments that break the flow of the game.
