@@ -6,7 +6,7 @@ export const AppContext = createContext();
 
 export const initialState = {
     player1: 'Ant',
-    player2: 'Felix333',
+    player2: 'Felix',
     winner: null,
     showAlert: false,
     scores: {
