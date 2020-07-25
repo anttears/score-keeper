@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/score-keeper/static/css/main.53b1e3cc.chunk.css",
+    "main.js": "/score-keeper/static/js/main.6694c6d1.chunk.js",
+    "main.js.map": "/score-keeper/static/js/main.6694c6d1.chunk.js.map",
+    "runtime-main.js": "/score-keeper/static/js/runtime-main.6fb475b0.js",
+    "runtime-main.js.map": "/score-keeper/static/js/runtime-main.6fb475b0.js.map",
+    "static/css/2.ca877302.chunk.css": "/score-keeper/static/css/2.ca877302.chunk.css",
+    "static/js/2.bdf98530.chunk.js": "/score-keeper/static/js/2.bdf98530.chunk.js",
+    "static/js/2.bdf98530.chunk.js.map": "/score-keeper/static/js/2.bdf98530.chunk.js.map",
+    "index.html": "/score-keeper/index.html",
+    "precache-manifest.a0584ed77cfe74fe16aed18fb984d450.js": "/score-keeper/precache-manifest.a0584ed77cfe74fe16aed18fb984d450.js",
+    "service-worker.js": "/score-keeper/service-worker.js",
+    "static/css/2.ca877302.chunk.css.map": "/score-keeper/static/css/2.ca877302.chunk.css.map",
+    "static/css/main.53b1e3cc.chunk.css.map": "/score-keeper/static/css/main.53b1e3cc.chunk.css.map",
+    "static/js/2.bdf98530.chunk.js.LICENSE.txt": "/score-keeper/static/js/2.bdf98530.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/score-keeper/static/media/roboto-latin-900-normal.bb1e4dc6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fb475b0.js",
+    "static/css/2.ca877302.chunk.css",
+    "static/js/2.bdf98530.chunk.js",
+    "static/css/main.53b1e3cc.chunk.css",
+    "static/js/main.6694c6d1.chunk.js"
+  ]
+}
