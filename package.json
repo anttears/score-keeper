@@ -2,6 +2,7 @@
   "name": "score-keeper",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://atears.github.io/score-keeper",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -16,10 +17,13 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && serve -s build",
+    "build": "react-scripts build",
+    "serve": "react-scripts build && serve -s build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "node ./node_modules/eslint/bin/eslint.js src"
+    "lint": "node ./node_modules/eslint/bin/eslint.js src",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -35,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
